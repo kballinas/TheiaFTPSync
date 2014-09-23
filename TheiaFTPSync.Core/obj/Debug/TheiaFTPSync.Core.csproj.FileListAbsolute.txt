@@ -1,0 +1,8 @@
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\obj\Debug\TheiaFTPSync.Core.csprojResolveAssemblyReference.cache
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\bin\Debug\TheiaFTPSync.Core.dll.config
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\bin\Debug\TheiaFTPSync.Core.dll
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\bin\Debug\TheiaFTPSync.Core.pdb
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\bin\Debug\Renci.SshNet.dll
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\bin\Debug\Renci.SshNet.xml
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\obj\Debug\TheiaFTPSync.Core.dll
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\TheiaFTPSync.Core\obj\Debug\TheiaFTPSync.Core.pdb

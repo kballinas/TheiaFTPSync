@@ -1,0 +1,1 @@
+c:\users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\DelugeFTPSync.exe.config

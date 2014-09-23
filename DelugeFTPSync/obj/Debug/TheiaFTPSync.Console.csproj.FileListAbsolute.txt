@@ -1,0 +1,10 @@
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\DelugeFTPSync.exe.config
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\DelugeFTPSync.exe
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\DelugeFTPSync.pdb
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\TheiaFTPSync.Core.dll
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\Renci.SshNet.dll
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\TheiaFTPSync.Core.pdb
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\bin\Debug\Renci.SshNet.xml
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\obj\Debug\TheiaFTPSync.Console.csprojResolveAssemblyReference.cache
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\obj\Debug\DelugeFTPSync.exe
+C:\Users\kballinas\documents\visual studio 2012\Projects\TheiaFTPSync\DelugeFTPSync\obj\Debug\DelugeFTPSync.pdb
