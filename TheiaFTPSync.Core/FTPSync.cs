@@ -34,6 +34,7 @@ namespace TheiaFTPSync.Core
                 }).ToList();
                 DownloadFiles(files, ftp, ftp_directory);
                 WriteLastRan(now.ToString()); //uncommentn after done testing
+                //Run shell script to update theia library
             }
         }
 
